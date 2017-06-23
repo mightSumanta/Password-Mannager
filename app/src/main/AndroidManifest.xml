@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sumanta.pman">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pmanlogoorg"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/pmanlogoorg"
+        android:supportsRtl="true"
+        android:theme="@style/AppNoActionBar"
+        android:windowSoftInputMode="stateVisible|adjustResize">
+        <activity android:name=".LoginPage.LoginActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".MainMenuPage.MainMenuActivity"
+            android:label="@string/title_activity_main"
+
+            android:theme="@style/AppNoActionBar"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".CategoryList.ListHolder"
+            android:label="@string/title_activity_list_holder"
+            android:theme="@style/AppNoActionBar"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".RegistrationPage.RegistrationActivity"
+            android:label="PMan"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:parentActivityName=".MainMenuPage.MainMenuActivity"
+            android:theme="@style/AppNoActionBar"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sumanta.pman.MainMenuPage.MainMenuActivity" />
+        </activity>
+    </application>
+
+</manifest>

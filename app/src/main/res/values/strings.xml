@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PMan</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration_password">RegistrationPassword</string>
+    <string name="title_activity_category_add_list_holder">CategoryAddListHolder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list_holder">ListHolder</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
