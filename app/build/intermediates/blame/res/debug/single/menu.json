@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\profile_menu.xml",
+        "source": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\src\\main\\res\\menu\\profile_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list_holder.xml",
+        "source": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\src\\main\\res\\menu\\menu_list_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_registration_password.xml",
+        "source": "C:\\Users\\Sumanta\\Documents\\AndroidDevelopment\\AndroidApp\\PMan\\app\\src\\main\\res\\menu\\menu_registration_password.xml"
+    }
+]
